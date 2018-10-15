@@ -24,6 +24,6 @@
 
 
 ## 课程资源
-- [Microsoft Azure Notebooks] (https://notebooks.azure.com/ "在线编程练习环境")
+- [Microsoft Azure Notebooks](https://notebooks.azure.com/ "在线编程练习环境")
 - [创建微软AzureNotebook账号](https://github.com/binliu-aipnd/aipnd-181016/blob/master/%E6%96%87%E6%A1%A3/1.%20%E5%88%9B%E5%BB%BA%E5%BE%AE%E8%BD%AFAzureNotebook%E8%B4%A6%E5%8F%B7.pdf)
 - [导入微信好友项目](https://github.com/binliu-aipnd/aipnd-181016/blob/master/%E6%96%87%E6%A1%A3/2.%20%E5%AF%BC%E5%85%A5%E5%BE%AE%E4%BF%A1%E5%A5%BD%E5%8F%8B%E9%A1%B9%E7%9B%AE.pdf)
